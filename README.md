@@ -48,4 +48,5 @@ The users location helps sync to the weather.
 ---
 
 ## Note:
-Currently, paused due to academic obligations. Will resume when time stops assassinating me.
+
+Currently, paused due to academic obligations. Will resume shortly after JEE.
