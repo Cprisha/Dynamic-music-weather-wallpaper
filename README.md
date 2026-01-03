@@ -22,7 +22,6 @@ The users location helps sync to the weather.
 - Pygame - GUI
 - Librosa - studying the intensity of the beats
 - SQL - Data collected
-- Spotify API - to sync with real time experience
 - Open CV - image editing
 - Geopandas - sync to users location 
 - python-weather - sync to weather 
@@ -50,3 +49,4 @@ The users location helps sync to the weather.
 ## Note:
 
 Currently, paused due to academic obligations. Will resume shortly after JEE.
+
